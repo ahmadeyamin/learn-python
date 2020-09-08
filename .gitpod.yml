@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - formulahendry.code-runner@0.11.0:HNAnyDKL6fUn1G8QfbKLpQ==
+    - ms-python.anaconda-extension-pack@1.0.1:P3lC8+yrcPrIZG1jWW6SLg==
